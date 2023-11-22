@@ -21,7 +21,7 @@ function deleteTask(index) {
 
 <template>
   <div class="todo">
-    <h1>Vue Todo List</h1>
+    <h1>Todo List</h1>
     <div>
       <input v-model="newTask" @keyup.enter="addTask" placeholder="Add a new task" class="input">
       <ul>
