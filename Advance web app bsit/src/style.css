@@ -1,101 +1,3 @@
-/* select.custom-select {
-  display: block;
-  margin: 0 auto;
-  width: 200px;
-  z-index: 1;
-
-}
-
-select.anotherselect{
-  display: flexbox
-  margin: auto; 
-}
-
-h1 {
-  font-family: 'Pacifico', cursive;
-  font-size: 50px;
-  text-align: center;
-  padding: auto;
-}
-
-img.firstimage {
-  width: 300px; 
-  height: 100px;
-  display: block; 
-  margin: 0 auto; 
-  margin-top: 20px;
-  align-items: flex-end;
-
-}
-
-img.custom-image {
-  width: 200px;
-  height: auto;
-  display: block;
-  margin: 0 auto; 
-}
-
-img.custom-image2{
-  width: 300px;
-  height: auto;
-  display: block;
-  margin: 0 auto; 
-}
-
-img.custom-image3{
-  width: 150px;
-  height: auto;
-  display: block;
-  margin: 0 auto; 
-}
-
-img.custom-image4{
-  width: 250px;
-  height: auto;
-  display: block;
-  margin: 0 auto; 
-}
-
-
-
-p{
-  text-align: center;
-  font-size: 24px;
-
-}
-
-.container {
-  margin-top: 10px;
-  position: relative;
-  width: 300px;
-}
-
-.custom-image {
-  max-width: 100%;
-}
-
-.custom-heading {
-  position: absolute;
-  width: 100%;
-  text-align: center; 
-  margin-top: 10px;
-}
-
-
-
-
-.todo{
-  margin-top: 50px;
-}
-h1{
-  text-align: left;
-  margin-top: 100px;
-    margin-bottom: 0.5rem;
-    font-weight: 500;
-    line-height: 1.2;
-    color: var(--bs-heading-color);
-} */
-
 body {
   display: flex;
   justify-content: space-around;
@@ -118,8 +20,8 @@ body {
   top: 0;
   right: 0;
   height: 200%;
-  width: 2px; /* Adjust the width as needed */
-  background-color: #000; /* Adjust the color as needed */
+  width: 2px;
+  background-color: #000;
   margin-left: 100px;
 }
 

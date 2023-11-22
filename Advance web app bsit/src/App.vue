@@ -16,15 +16,3 @@ import './style.css';
 
 
 </template>
-
-<style>
-.app-container {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  padding: 20px;
-}
-
-/* You can add additional styling for each component if needed */
-</style>
